@@ -13,14 +13,19 @@ As you can see, my Git repo's are quite empty for someone who's been a Full Stac
 since I studied code and I want it to be from myself and because of myself. 
 
 ## Im Currently Working On:
-There's a few ideas I've always had on my mind that I would have liked to work on. Simplistic software that improves cooking for people that struggle with nailing it down.
+There's a few ideas I've always had on my mind that I would have liked to work more on. Simplistic softwares that improves the experience of cooking for people that struggle with nailing it down.
 Wether it's about the time perspective, health or even cost. 
 
 ### **Casually Amazing**
 Casually Amazing is my little baby dragon that's been brooding in my head for about 8 years. With the regrets that I didnt start sooner, I realized that I dont need the perfect idea 
 to create a way for myself to build a successfull project. Jumping on the ideas in your head is atleast 50% of the progress of the entire project. 
-*Casually Amazing* is what every food website I've always wanted, it's simplistic, interesting, and sleek, but also smart. With helpful functions to take your food game to new levels,
-or just bring it up to line with your needs.
+*Casually Amazing* is what every food website I've always wanted, it's simplistic, interesting, and sleek, but also smart. With helpful functions to take your food game to new levels, or just bring it up to line with your needs. I do not want this to become a top-end niche that is only used by chefs's or very experienced home cooks. 
+<br>
+I enjoy writing, I will dive deeper into my writing ambitions later. I plan to do posts. So the application/website needs to be able to store, view and preview posts. In line with content being displayed I would like to be able to supply a wide range of different recipes. *This* is a brief idea of how I want to create **Casually Amazing**
+
+### **Writing Idea Generator**
+I enjoy writing, quite a lot actually. However, one of my main struggles with writing is having a few too many ideas, and procrastinating the energy to dive away. If the struggle of having to choose goes away, so does the possibility to procrastinate. To me, this feels like a  
+
 
 <!---
 - 👋 Hi, I’m @Daffie95
