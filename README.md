@@ -24,16 +24,6 @@ to create a way for myself to build a successfull project. Jumping on the ideas 
 I enjoy writing, I will dive deeper into my writing ambitions later. I plan to do posts. So the application/website needs to be able to store, view and preview posts. In line with content being displayed I would like to be able to supply a wide range of different recipes. *This* is a brief idea of how I want to create **Casually Amazing**
 
 ### **Writing Idea Generator**
-I enjoy writing, quite a lot actually. However, one of my main struggles with writing is having a few too many ideas, and procrastinating the energy to dive away. If the struggle of having to choose goes away, so does the possibility to procrastinate. To me, this feels like a  
+I enjoy writing, quite a lot actually. However, one of my main struggles with writing is having a few too many ideas, and procrastinating the energy to dive away. If the struggle of having to choose goes away, so does the possibility to procrastinate. To me, this feels like a very simplistic way to increase productivity and individuals will to continue hone their craft.
 
 
-<!---
-- 👋 Hi, I’m @Daffie95
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-Daffie95/Daffie95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
